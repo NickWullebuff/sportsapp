@@ -1,0 +1,281 @@
+[
+    {
+        "id": 1,
+        "title": "Kniebeugen",
+        "description": "Um die zarten Oberschenkel, Waden und Popo zu stärken. \n Einfache Kniebeugen",
+        "image": "squat.jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "einfach"
+    },
+    {
+        "id": 2,
+        "title": "Kniebeugen",
+        "description": "Um die zarten Oberschenkel, Waden und Popo zu stärken.",
+        "image": "squat.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "mittel"
+    },
+    {
+        "id": 3,
+        "title": "Kniebeugen",
+        "description": "Um die zarten Oberschenkel, Waden und Popo zu stärken. \nMache Jumpsquats.",
+        "image": "squat.jpg",
+        "repetitions": 25,
+        "sets": 3,
+        "level": "schwer"
+    },
+
+    {
+        "id": 4,
+        "title": "Liegestütze",
+        "description": "Auf die Knie! -Amboss \nMache Knieliegestützen.",
+        "image": "liegestuetze.jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "einfach"
+    },
+    {
+       "id": 5,
+        "title": "Liegestütze",
+        "description": "Eine Übung für den gesamten Oberkörper. Normale Liegestütze.",
+        "image": "liegestuetze.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "mittel"
+    },
+    {
+        "id": 6,
+        "title": "Liegestütze",
+        "description": "Lege deine Füße auf eine Bank oder Kasten.",
+        "image": "liegestuetze 2.jpg",
+        "repetitions": 25,
+        "sets": 3,
+        "level": "schwer"
+    },
+
+    {
+        "id": 7,
+        "title": "Ausfallschritt",
+        "description": "Eine Übung für Beine, Bauch und Stabilität. \nStationär und langsam.",
+        "image": "liegestuetze.jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "einfach"
+    },
+    {
+        "id": 8,
+        "title": "Ausfallschritt",
+        "description": "Eine Übung für Beine, Bauch und Stabilität. \nGehend und langsam.",
+        "image": "ausfallschritt.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "mittel"
+    },
+    {
+        "id": 9,
+        "title": "Ausfallschritt",
+        "description": "Eine Übung für Beine, Bauch und Stabilität. \nGehend und springend die Beine wechselnd.",
+        "image": "ausfallschritt.jpg",
+        "repetitions": 25,
+        "sets": 3,
+        "level": "schwer"
+    },
+
+    {
+        "id": 10,
+        "title": "Plank",
+        "description": "Eine Übung für den gesamten Körper. \nAuf den Knien.",
+        "image": "ausfallschritt.jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "einfach"
+    },
+    {
+        "id": 11,
+        "title": "Plank",
+        "description": "Eine Übung für den gesamten Körper. \nNormale Durchführung.",
+        "image": "plank.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "mittel"
+    },
+    {
+        "id": 12,
+        "title": "Plank",
+        "description": "Eine Übung für den gesamten Körper. \nAbwechselnd die Arme und gegenüberliegende Beine strecken.",
+        "image": "plank.jpg",
+        "repetitions": 25,
+        "sets": 3,
+        "level": "schwer"
+    },
+
+    {
+        "id": 13,
+        "title": "Bergsteiger",
+        "description": "Eine dynamische Übung für den gesamten Körper. \nLangsam durchführen.",
+        "image": "bergsteiger.jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "einfach"
+    },
+    {
+        "id": 14,
+        "title": "Bergsteiger",
+        "description": "Eine dynamische Übung für den gesamten Körper. \nIn einem schnellen Tempo, aber nicht volle Power.",
+        "image": "bergsteiger.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "mittel"
+    },
+    {
+        "id": 15,
+        "title": "Bergsteiger",
+        "description": "Eine dynamische Übung für den gesamten Körper. \nVolle POWER! Als würdest du den Mt. Everest hochlaufen.",
+        "image": "bergsteiger.jpg",
+        "repetitions": 25,
+        "sets": 3,
+        "level": "schwer"
+    }, 
+    
+    {
+        "id": 16,
+        "title": "Superman",
+        "description": "Eine Übung für Rücken und Gesäß. \nLangsam im eigenem Tempo an- und entspannen.",
+        "image": "superman.jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "einfach"
+    },
+    {
+        "id": 17,
+        "title": "Superman",
+        "description": "Eine Übung für Rücken und Gesäß. \nArme und Beine möglichst weit nach oben strecken und für 3 Sekunden halten.",
+        "image": "superman.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "mittel"
+    },
+    {
+        "id": 18,
+        "title": "Superman",
+        "description": "Eine Übung für Rücken und Gesäß. \nArme und Beine möglichts weit nach oben strecken und für 3 Sekunden halten.",
+        "image": "superman.jpg",
+        "repetitions": 25,
+        "sets": 3,
+        "level": "schwer"
+    },
+
+    {
+        "id": 19,
+        "title": "Burpees",
+        "description": "Beim Burpee startest du im Stand, gehst dann in die Hocke, setzt die Hände auf den Boden, \n gehst mit den Füßen nach hinten in die Liegestützposition, machst eine Liegestütze, gehst wieder in den Stand.",
+        "image": ".jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "einfach"
+    },
+    {
+        "id": 20,
+        "title": "Burpees",
+        "description": "Beim Burpee startest du im Stand, gehst dann in die Hocke, setzt die Hände auf den Boden, \n gehst mit den Füßen nach hinten in die Liegestützposition, machst eine Liegestütze, springst wieder in den Stand.",
+        "image": ".jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "mittel"
+    },
+    {
+        "id": 21,
+        "title": "Burpees",
+        "description": "Beim Burpee startest du im Stand, gehst dann in die Hocke, setzt die Hände auf den Boden, \n springst mit den Füßen nach hinten in die Liegestützposition, machst eine Liegestütze, springst wieder zurück in den Stand.",
+        "image": ".jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "schwer"
+    },
+
+    {
+        "id": 22,
+        "title": "Dips",
+        "description": "Du benötigst 2 Kästen zum abstützen. Bei Dips stützt du dich mit den Armen auf einer Bank oder Barren ab, senkst den Körper kontrolliert nach unten, die Ellenbogen um circa 90° geneigt, und drückst dich dann wieder nach oben.",
+        "image": "dips.jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "einfach"
+    },
+    {
+        "id": 23,
+        "title": "Dips",
+        "description": "Du benötigst 2 Kästen zum abstützen. Bei Dips stützt du dich mit den Armen auf einer Bank oder Barren ab, senkst den Körper kontrolliert nach unten, die Ellenbogen leicht gebeugt, und drückst dich dann wieder nach oben.",
+        "image": "dips.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "mittel"
+    },
+    {
+        "id": 24,
+        "title": "Dips",
+        "description": "Du benötigst 2 Kästen zum abstützen. Bei Dips stützt du dich mit den Armen auf einer Bank oder Barren ab, senkst den Körper kontrolliert tief nach unten, die Ellenbogen leicht gebeugt, und drückst dich dann wieder nach oben in einem erhöhten Tempo.",
+        "image": "dips.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "schwer"
+    },
+    
+    {
+        "id": 25,
+        "title": "Fahrradcrunches",
+        "description": "Leg dich auf den Rücken, hebe deine Beine so an, als würdest du sitzen und trete deine Beine in die Luft, als würdest du Fahrradfahren. Mache es langsam, aber achte auf die Ausführung.",
+        "image": "fahrradcrunches.jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "einfach"
+    },
+    {
+        "id": 26,
+        "title": "Fahrradcrunches",
+        "description": "Leg dich auf den Rücken, hebe deine Beine so an, als würdest du sitzen und trete deine Beine in die Luft, als würdest du Fahrradfahren. Mach es für dein Ermessen schnell.",
+        "image": "fahrradcrunches.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "mittel"
+    },
+    {
+        "id": 27,
+        "title": "Fahrradcrunches",
+        "description": "Leg dich auf den Rücken, hebe deine Beine so an, als würdest du sitzen und trete deine Beine in die Luft, als würdest du Fahrradfahren. Bewege deine Oberkörper mit, als würdest du Kurven nehmen. Hebe deinen Oberkörper dazu an.",
+        "image": "fahrradcrunches.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "schwer"
+    },
+
+    {
+        "id": 28,
+        "title": "Wandsitzen",
+        "description": "Geh mit deinen Rücken an die Wand und gehe in die Hocke. Die Beine sollten in einem 90° Winkle geneigt sein. Drücke deinen Rücken gerade an die Wand und halte diese Position.",
+        "image": "wandsitzen.jpg",
+        "repetitions": 15,
+        "sets": 3,
+        "level": "einfach"
+    },
+    {
+        "id": 29,
+        "title": "Wandsitzen",
+        "description": "Geh mit deinen Rücken an die Wand und gehe in die Hocke. Die Beine sollten in einem 90° Winkle geneigt sein. Drücke deinen Rücken gerade an die Wand und halte diese Position.",
+        "image": "wandsitzen.jpg",
+        "repetitions": 20,
+        "sets": 3,
+        "level": "mittel"
+    },
+    {
+        "id": 30,
+        "title": "Wandsitzen",
+        "description": "Geh mit deinen Rücken an die Wand und gehe in die Hocke. Die Beine sollten in einem 90° Winkle geneigt sein. Drücke deinen Rücken gerade an die Wand und halte diese Position. Strecke im Wechsel ein Bein aus und halte es für 3 Sekunden.",
+        "image": "wandsitzen.jpg",
+        "repetitions": 25,
+        "sets": 3,
+        "level": "schwer"
+    }
+]
